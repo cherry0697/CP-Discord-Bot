@@ -1,5 +1,5 @@
 ## About
-This project is a small part of dotSlash Community Discord Server.
+This project is a small part of DotSlash Community Discord Server.
 
 ## What' in there
 - `stalk.py Using the Codeforces API, fetches user submissions and tells the recent problems solved by user and hardest problem solved by user.
